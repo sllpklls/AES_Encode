@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespacHoangThaiHoangThai
+namespace HoangThai
 {
     class Program
     {
@@ -434,7 +434,6 @@ namespacHoangThaiHoangThai
             }
 
         }
-        //author: Hoang Nghia 
-
+        //author: Hoang Nghia Thai
     }
 }
