@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace test_createkey
+namespacHoangThaiHoangThai
 {
     class Program
     {
@@ -434,6 +434,7 @@ namespace test_createkey
             }
 
         }
+        //author: Hoang Nghia 
 
     }
 }
